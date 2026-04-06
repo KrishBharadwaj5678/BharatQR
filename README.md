@@ -1,6 +1,6 @@
 # 📲 BharatQR 
 
-**BharatQR** is a simple and secure platform that allows you to generate UPI QR codes instantly without any signup. It helps individuals and businesses accept UPI payments easily and quickly. 🚀
+**BharatQR** is a simple and secure platform that allows you to generate UPI QR codes instantly without any signup. It helps individuals and businesses accept UPI payments easily and quickly. 
 
 ![BharatQRDemo](https://github.com/KrishBharadwaj5678/BharatQR/raw/main/BharatQRDemo.png)
 
@@ -54,36 +54,10 @@
 
 ## Contributing 🤝
 
-We welcome contributions! ✨
+Want to contribute? Here's how:
 
-1. **🍴 Fork the repository**
-
-2. **📥 Clone your fork**
-
-   ```bash
-   git clone git clone https://github.com/KrishBharadwaj5678/BharatQR.git
-   cd BharatQR
-   ```
-
-3. **🌿 Create a new branch**
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-4. **🛠️ Make your changes**
-
-5. **💾 Commit your changes**
-
-   ```bash
-   git add .
-   git commit -m "Add feature XYZ or Fix bug ABC"
-   ```
-
-6. **🚀 Push to your branch**
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-7. **📬 Open a Pull Request**
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
