@@ -4,7 +4,7 @@ from streamlit import download_button
 
 st.set_page_config(
     page_title="BharatQR | UPI QR Code Generator",
-    page_icon="icon.png",
+    page_icon="./assets/icons/icon.png",
     menu_items={
         "About":"BharatQR is a simple and secure platform to generate UPI QR codes instantly. Without the need for sign-up, you can create a QR by simply entering your UPI ID."
     }
